@@ -1,6 +1,6 @@
 数字货币合约期权交易所解决方案
-- 加入交流群：区块链技术交流群【QQ群：530862680】【QQ:247818019】
-- E-mail:247818019@qq.com
+- 加入交流群：区块链技术交流群【Telegram：@ubesmile】
+- E-mail:ubesmile@protonmail.com
 本源码仅限于交流学习，凡涉及到法律问题与本人无关
 
 =====================================
@@ -8,12 +8,12 @@
 ---
 ### 提问和建议
 - 使用Issuse，我们会及时跟进解答。
-- 加入交流群：区块链技术交流群【QQ群：530862680】【QQ:247818019】
-- E-mail:247818019@qq.com
+- 加入交流群：区块链技术交流群【Telegram：@ubesmile】
+- E-mail:ubesmile@protonmail.com
 
 # 捐赠：
 #### 您的捐赠是我们开源最大的动力
-- ETH/USDT(以太坊/USDT)：0xE4Be628D596995f2eB91E78392aD4976ec6BEaa1
+- TRON: TXgB7whDqLrC5SK37bcHRL5DEfyaGpFH8E
 
 #### ZTuo是一个免费的、开源的数字货币交易系统，她使用目前最流行的Java框架和相关技术开发而成。
 
@@ -58,12 +58,12 @@
 - 测试环境仅供学习参考！！！请各位学习的小伙伴合理运用。
 
 - 测试环境地址 : 
-- https://www.bizzan.top 账户：13800138001 密码：123456
-- https://admin.bizzan.top 账户：test 密码：123456
+- [https://www.bitgood.top](https://www.bitgood.top) 账户：13800138001 密码：123456
+- [https://admin.bitgood.top](https://admin.bitgood.top) 账户：test 密码：123456
 
 ### 加入我们
-    为方便大家交流和学习，请各位小伙伴加入QQ交流群：
-	【QQ群：530862680】【QQ:247818019】
+    为方便大家交流和学习，请各位小伙伴加：
+	【Telegram: @ubesmile】
 ### 开源许可协议
     Apache
 
